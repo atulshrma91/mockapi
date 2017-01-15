@@ -1,2 +1,2 @@
 # mockapi
-This is repo for mockapi
+Slim framework mockapi
